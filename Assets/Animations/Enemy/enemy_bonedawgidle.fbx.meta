@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 95c646ce0610acb47a24458be86f5754
+timeCreated: 1519194271
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: belly
+    100004: collar
+    100006: CTRL_belly
+    100008: CTRL_collar
+    100010: CTRL_head
+    100012: CTRL_L_ear
+    100014: CTRL_L_earbase
+    100016: CTRL_L_elbow
+    100018: CTRL_L_elbow_grp
+    100020: CTRL_L_shoulder
+    100022: CTRL_L_shoulder_grp
+    100024: CTRL_master
+    100026: CTRL_midbody
+    100028: CTRL_R_ear
+    100030: CTRL_R_earbase
+    100032: CTRL_R_elbow
+    100034: CTRL_R_elbow_grp
+    100036: CTRL_R_shoulder
+    100038: CTRL_R_shoulder_grp
+    100040: CTRL_snout
+    100042: CTRL_tail
+    100044: CTRL_tail2
+    100046: CTRL_tail2_grp
+    100048: CTRL_tail3
+    100050: CTRL_tail3_grp
+    100052: CTRL_tail_grp
+    100054: dawg_bone1
+    100056: dawg_bone2
+    100058: dawgmesh
+    100060: //RootNode
+    100062: head
+    100064: hip
+    100066: L_earbase
+    100068: L_earmid
+    100070: L_eartip
+    100072: L_elbow
+    100074: L_hand
+    100076: L_shoulder
+    100078: midbody1
+    100080: midbody2
+    100082: neck
+    100084: nose
+    100086: nosetip
+    100088: pasted__collar
+    100090: pasted__dawg_mesh
+    100092: pasted__dawgbody
+    100094: pasted__dawghead
+    100096: R_earbase
+    100098: R_earmid
+    100100: R_eartip
+    100102: R_elbow
+    100104: R_hand
+    100106: R_shoulder
+    100108: tail1
+    100110: tail2
+    100112: tail3
+    100114: tail4
+    400000: back
+    400002: belly
+    400004: collar
+    400006: CTRL_belly
+    400008: CTRL_collar
+    400010: CTRL_head
+    400012: CTRL_L_ear
+    400014: CTRL_L_earbase
+    400016: CTRL_L_elbow
+    400018: CTRL_L_elbow_grp
+    400020: CTRL_L_shoulder
+    400022: CTRL_L_shoulder_grp
+    400024: CTRL_master
+    400026: CTRL_midbody
+    400028: CTRL_R_ear
+    400030: CTRL_R_earbase
+    400032: CTRL_R_elbow
+    400034: CTRL_R_elbow_grp
+    400036: CTRL_R_shoulder
+    400038: CTRL_R_shoulder_grp
+    400040: CTRL_snout
+    400042: CTRL_tail
+    400044: CTRL_tail2
+    400046: CTRL_tail2_grp
+    400048: CTRL_tail3
+    400050: CTRL_tail3_grp
+    400052: CTRL_tail_grp
+    400054: dawg_bone1
+    400056: dawg_bone2
+    400058: dawgmesh
+    400060: //RootNode
+    400062: head
+    400064: hip
+    400066: L_earbase
+    400068: L_earmid
+    400070: L_eartip
+    400072: L_elbow
+    400074: L_hand
+    400076: L_shoulder
+    400078: midbody1
+    400080: midbody2
+    400082: neck
+    400084: nose
+    400086: nosetip
+    400088: pasted__collar
+    400090: pasted__dawg_mesh
+    400092: pasted__dawgbody
+    400094: pasted__dawghead
+    400096: R_earbase
+    400098: R_earmid
+    400100: R_eartip
+    400102: R_elbow
+    400104: R_hand
+    400106: R_shoulder
+    400108: tail1
+    400110: tail2
+    400112: tail3
+    400114: tail4
+    2300000: dawg_bone1
+    2300002: dawg_bone2
+    3300000: dawg_bone1
+    3300002: dawg_bone2
+    4300000: dawg_bone2
+    4300002: dawg_bone1
+    4300004: pasted__dawghead
+    4300006: pasted__dawgbody
+    4300008: pasted__collar
+    7400000: idle
+    9500000: //RootNode
+    13700000: pasted__collar
+    13700002: pasted__dawgbody
+    13700004: pasted__dawghead
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 6
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: CTRL_master
+        weight: 1
+      - path: CTRL_master/collar
+        weight: 1
+      - path: CTRL_master/CTRL_belly
+        weight: 1
+      - path: CTRL_master/CTRL_belly/CTRL_midbody
+        weight: 1
+      - path: CTRL_master/CTRL_collar
+        weight: 1
+      - path: CTRL_master/CTRL_head
+        weight: 1
+      - path: CTRL_master/CTRL_head/CTRL_L_earbase
+        weight: 1
+      - path: CTRL_master/CTRL_head/CTRL_L_earbase/CTRL_L_ear
+        weight: 1
+      - path: CTRL_master/CTRL_head/CTRL_R_earbase
+        weight: 1
+      - path: CTRL_master/CTRL_head/CTRL_R_earbase/CTRL_R_ear
+        weight: 1
+      - path: CTRL_master/CTRL_head/CTRL_snout
+        weight: 1
+      - path: CTRL_master/CTRL_L_shoulder_grp
+        weight: 1
+      - path: CTRL_master/CTRL_L_shoulder_grp/CTRL_L_shoulder
+        weight: 1
+      - path: CTRL_master/CTRL_L_shoulder_grp/CTRL_L_shoulder/CTRL_L_elbow_grp
+        weight: 1
+      - path: CTRL_master/CTRL_L_shoulder_grp/CTRL_L_shoulder/CTRL_L_elbow_grp/CTRL_L_elbow
+        weight: 1
+      - path: CTRL_master/CTRL_R_shoulder_grp
+        weight: 1
+      - path: CTRL_master/CTRL_R_shoulder_grp/CTRL_R_shoulder
+        weight: 1
+      - path: CTRL_master/CTRL_R_shoulder_grp/CTRL_R_shoulder/CTRL_R_elbow_grp
+        weight: 1
+      - path: CTRL_master/CTRL_R_shoulder_grp/CTRL_R_shoulder/CTRL_R_elbow_grp/CTRL_R_elbow
+        weight: 1
+      - path: CTRL_master/CTRL_tail_grp
+        weight: 1
+      - path: CTRL_master/CTRL_tail_grp/CTRL_tail
+        weight: 1
+      - path: CTRL_master/CTRL_tail_grp/CTRL_tail/CTRL_tail2_grp
+        weight: 1
+      - path: CTRL_master/CTRL_tail_grp/CTRL_tail/CTRL_tail2_grp/CTRL_tail2
+        weight: 1
+      - path: CTRL_master/CTRL_tail_grp/CTRL_tail/CTRL_tail2_grp/CTRL_tail2/CTRL_tail3_grp
+        weight: 1
+      - path: CTRL_master/CTRL_tail_grp/CTRL_tail/CTRL_tail2_grp/CTRL_tail2/CTRL_tail3_grp/CTRL_tail3
+        weight: 1
+      - path: dawg_bone1
+        weight: 1
+      - path: dawg_bone2
+        weight: 1
+      - path: dawgmesh
+        weight: 1
+      - path: dawgmesh/pasted__dawg_mesh
+        weight: 1
+      - path: dawgmesh/pasted__dawg_mesh/pasted__collar
+        weight: 1
+      - path: dawgmesh/pasted__dawg_mesh/pasted__dawgbody
+        weight: 1
+      - path: dawgmesh/pasted__dawg_mesh/pasted__dawghead
+        weight: 1
+      - path: hip
+        weight: 1
+      - path: hip/belly
+        weight: 1
+      - path: hip/belly/midbody1
+        weight: 1
+      - path: hip/belly/midbody1/midbody2
+        weight: 1
+      - path: hip/belly/midbody1/midbody2/L_shoulder
+        weight: 1
+      - path: hip/belly/midbody1/midbody2/L_shoulder/L_elbow
+        weight: 1
+      - path: hip/belly/midbody1/midbody2/L_shoulder/L_elbow/L_hand
+        weight: 1
+      - path: hip/belly/midbody1/midbody2/R_shoulder
+        weight: 1
+      - path: hip/belly/midbody1/midbody2/R_shoulder/R_elbow
+        weight: 1
+      - path: hip/belly/midbody1/midbody2/R_shoulder/R_elbow/R_hand
+        weight: 1
+      - path: hip/tail1
+        weight: 1
+      - path: hip/tail1/tail2
+        weight: 1
+      - path: hip/tail1/tail2/tail3
+        weight: 1
+      - path: hip/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: neck
+        weight: 1
+      - path: neck/head
+        weight: 1
+      - path: neck/head/L_earbase
+        weight: 1
+      - path: neck/head/L_earbase/L_earmid
+        weight: 1
+      - path: neck/head/L_earbase/L_earmid/L_eartip
+        weight: 1
+      - path: neck/head/nose
+        weight: 1
+      - path: neck/head/nose/nosetip
+        weight: 1
+      - path: neck/head/R_earbase
+        weight: 1
+      - path: neck/head/R_earbase/R_earmid
+        weight: 1
+      - path: neck/head/R_earbase/R_earmid/R_eartip
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

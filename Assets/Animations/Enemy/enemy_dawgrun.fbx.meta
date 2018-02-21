@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: b820eaa3aa72fa0418cd3906df261745
+timeCreated: 1519152317
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: belly
+    100004: collar
+    100006: CTRL_belly
+    100008: CTRL_collar
+    100010: CTRL_head
+    100012: CTRL_L_ear
+    100014: CTRL_L_earbase
+    100016: CTRL_L_elbow
+    100018: CTRL_L_elbow_grp
+    100020: CTRL_L_shoulder
+    100022: CTRL_L_shoulder_grp
+    100024: CTRL_master
+    100026: CTRL_midbody
+    100028: CTRL_R_ear
+    100030: CTRL_R_earbase
+    100032: CTRL_R_elbow
+    100034: CTRL_R_elbow_grp
+    100036: CTRL_R_shoulder
+    100038: CTRL_R_shoulder_grp
+    100040: CTRL_snout
+    100042: CTRL_tail
+    100044: CTRL_tail2
+    100046: CTRL_tail2_grp
+    100048: CTRL_tail3
+    100050: CTRL_tail3_grp
+    100052: CTRL_tail_grp
+    100054: dawg_bone1
+    100056: dawg_bone2
+    100058: dawg_collar
+    100060: dawgbody
+    100062: dawghead
+    100064: //RootNode
+    100066: head
+    100068: hip
+    100070: L_earbase
+    100072: L_earmid
+    100074: L_eartip
+    100076: L_elbow
+    100078: L_hand
+    100080: L_shoulder
+    100082: midbody1
+    100084: midbody2
+    100086: neck
+    100088: nose
+    100090: nosetip
+    100092: polySurface1
+    100094: polySurface2
+    100096: polySurface3
+    100098: polySurface4
+    100100: polySurface5
+    100102: polySurface5 1
+    100104: R_earbase
+    100106: R_earmid
+    100108: R_eartip
+    100110: R_elbow
+    100112: R_hand
+    100114: R_shoulder
+    100116: tail1
+    100118: tail2
+    100120: tail3
+    100122: tail4
+    100124: transform1
+    100126: transform2
+    100128: transform3
+    100130: transform4
+    100132: transform5
+    100134: transform6
+    100136: transform7
+    400000: back
+    400002: belly
+    400004: collar
+    400006: CTRL_belly
+    400008: CTRL_collar
+    400010: CTRL_head
+    400012: CTRL_L_ear
+    400014: CTRL_L_earbase
+    400016: CTRL_L_elbow
+    400018: CTRL_L_elbow_grp
+    400020: CTRL_L_shoulder
+    400022: CTRL_L_shoulder_grp
+    400024: CTRL_master
+    400026: CTRL_midbody
+    400028: CTRL_R_ear
+    400030: CTRL_R_earbase
+    400032: CTRL_R_elbow
+    400034: CTRL_R_elbow_grp
+    400036: CTRL_R_shoulder
+    400038: CTRL_R_shoulder_grp
+    400040: CTRL_snout
+    400042: CTRL_tail
+    400044: CTRL_tail2
+    400046: CTRL_tail2_grp
+    400048: CTRL_tail3
+    400050: CTRL_tail3_grp
+    400052: CTRL_tail_grp
+    400054: dawg_bone1
+    400056: dawg_bone2
+    400058: dawg_collar
+    400060: dawgbody
+    400062: dawghead
+    400064: //RootNode
+    400066: head
+    400068: hip
+    400070: L_earbase
+    400072: L_earmid
+    400074: L_eartip
+    400076: L_elbow
+    400078: L_hand
+    400080: L_shoulder
+    400082: midbody1
+    400084: midbody2
+    400086: neck
+    400088: nose
+    400090: nosetip
+    400092: polySurface1
+    400094: polySurface2
+    400096: polySurface3
+    400098: polySurface4
+    400100: polySurface5
+    400102: polySurface5 1
+    400104: R_earbase
+    400106: R_earmid
+    400108: R_eartip
+    400110: R_elbow
+    400112: R_hand
+    400114: R_shoulder
+    400116: tail1
+    400118: tail2
+    400120: tail3
+    400122: tail4
+    400124: transform1
+    400126: transform2
+    400128: transform3
+    400130: transform4
+    400132: transform5
+    400134: transform6
+    400136: transform7
+    2300000: dawg_bone1
+    2300002: dawg_bone2
+    3300000: dawg_bone1
+    3300002: dawg_bone2
+    4300000: dawg_bone2
+    4300002: dawghead
+    4300004: dawg_bone1
+    7400000: run
+    9500000: //RootNode
+    13700000: dawghead
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
